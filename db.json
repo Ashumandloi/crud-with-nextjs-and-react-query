@@ -1,24 +1,6 @@
 {
   "students": [
     {
-      "id": "4",
-      "name": "Alice Johnson",
-      "roll": "104",
-      "subject": "Mathsss"
-    },
-    {
-      "id": "5",
-      "name": "Bob Brown",
-      "roll": "105",
-      "subject": "Science"
-    },
-    {
-      "id": "6",
-      "name": "Charlie Davis",
-      "roll": "106",
-      "subject": "Historys"
-    },
-    {
       "id": "7",
       "name": "David Evans",
       "roll": "107",
@@ -95,6 +77,12 @@
       "name": "Quinn Taylor",
       "roll": "120",
       "subject": "Science"
+    },
+    {
+      "id": "f0a8",
+      "name": "anamika mishra",
+      "roll": "213",
+      "subject": "math"
     }
   ]
 }
